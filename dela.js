@@ -1,1 +1,1 @@
-const name = "My name dela"
+const name = "My name dela sukasari"
